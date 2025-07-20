@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Mezes
 
-🎓 Computer systems and network engineer, passionate about **mobile development**, **embedded AI**, and **user experience design**.
+🎓 Software Engineer and UI/UX Designer.
 💻 Freelance developer & tech entrepreneur based in Yaoundé, Cameroon.
 🔍 I'm always looking for new technical challenges combining **algorithmic efficiency**, **ergonomic interfaces**, and **embedded technologies**.
 
