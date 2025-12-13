@@ -60,8 +60,7 @@ Smart audio player for Android with personalized AI recommendations.
 ## 🤝 Contact Me / Collaborate
 
 📧 [mezatioange@gmail.com](mailto:mezatioange@gmail.com)  
-🌍 Yaoundé, Cameroun  
-📱 +237 693 052 152  
+🌍 Yaoundé, Cameroun   
 🔗 [LinkedIn](https://www.linkedin.com/in/ange-mezatio)
 
 I am open to any collaboration.
