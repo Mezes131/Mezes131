@@ -52,8 +52,11 @@ Smart audio player for Android with personalized AI recommendations.
 
 ## 📊 GitHub Stats
 
-![Mezes's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mezes131&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mezes131&layout=compact&theme=radical)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Mezes131&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20" alt="Mezes131" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mezes131&layout=compact&show_icons=true&theme=algolia&border_radius=20" alt="Mezes131" /></p>
+<br>
+<p><img align="center" src="https://streak-stats.demolab.com?user=Mezes131&count_private=true&theme=algolia&border_radius=20" alt="Mezes131" /></p>
 
 ---
 
